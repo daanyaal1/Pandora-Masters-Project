@@ -1,0 +1,36 @@
+Project plan
+
+Abstract:
+  •	Intro to project, key findings,goals and results
+
+Intro &  Theory:
+  •	Introduce Microboone experiment
+  •	Microboone physics goals: 
+      1.	Precision cross section
+      2.	Low-energy electron neutrino events (excess of sterile neutrinos)
+      3.	Resolving e- and gamma particle (photon) differences
+  •	Microboone detector- LArPTc (liquid argon time projection chamber)
+  •	Introduce Pandora, Pandora goals and algorithms, U,V,W & 3D views, MC simulations
+  •	Cosmic ray muon background problems
+  •	Interaction types and topologies e.g. CCDIS, CCRES, CCQE
+
+Work Done:
+  •	Goals of track vs shower identification from particle topologies and calorimetric info
+  •	Further goals of particle identification
+  •	Issues: 
+      1.	Reconstruction error, gaps in detector- solution: look at purity & completeness values for reconstruction
+      2.	Cosmic ray muon background – we have simulated data with and without this background, initially concentrated on data without background
+  •	Technical issues: setting up a framework to analyse the data
+
+    Variables:
+      •	Sketch cartoons with motivation for each variable and explanations
+      •	Show distributions for variables, by purity/completeness cut and by particle type etc.
+      •	Covariance between variables
+      •	Show results of classification accuracy
+
+Next term plans:
+  •	Incorporate U,V views and 3D hit information
+  •	Calometric info
+  •	Deep learning
+  •	Particle/event identification
+
