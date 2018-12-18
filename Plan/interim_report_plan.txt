@@ -23,7 +23,7 @@ Work Done:
   •	Technical issues: setting up a framework to analyse the data
 
     Variables:
-      •	Sketch cartoons with motivation for each variable and explanations
+      •	Sketch cartoons with motivation for each variable and explanations, including adversial examples
       •	Show distributions for variables, by purity/completeness cut and by particle type etc.
       •	Covariance between variables
       •	Show results of classification accuracy
