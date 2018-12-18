@@ -12,7 +12,8 @@ Intro &  Theory:
   •	Microboone detector- LArPTc (liquid argon time projection chamber)
   •	Introduce Pandora, Pandora goals and algorithms, U,V,W & 3D views, MC simulations
   •	Cosmic ray muon background problems
-  •	Interaction types and topologies e.g. CCDIS, CCRES, CCQE
+  •	Interaction types and topologies e.g. CCDIS, CCRES, CCQE - also explain we are looking at final states in the MC heirarchy
+  
 
 Work Done:
   •	Goals of track vs shower identification from particle topologies and calorimetric info
